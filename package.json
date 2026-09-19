@@ -1,20 +1,10 @@
 {
-  "name": "node-hello",
+  "name": "papa-node-hello-000",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple node hello app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/johnpapa/node-hello.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/johnpapa/node-hello/issues"
-  },
-  "homepage": "https://github.com/johnpapa/node-hello#readme"
+  "license": "ISC"
 }
